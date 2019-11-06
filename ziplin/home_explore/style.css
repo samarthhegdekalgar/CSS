@@ -551,3 +551,11 @@ header {
     margin-left: 10px;
   }
   
+  #indicator {
+      display: flex;
+      flex-direction: row;
+      width:6px;
+      height: 6px;
+      background-color: #25df8f;
+      border-radius: 3px;
+  }
